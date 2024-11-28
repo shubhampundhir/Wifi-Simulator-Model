@@ -1,4 +1,4 @@
-# WiFi 6 Communication Simulation
+# WiFi 6 Communication Simulation with OFDMA
 
 This project simulates the communication process using WiFi 6 with OFDMA (Orthogonal Frequency Division Multiple Access) and round-robin scheduling. The simulation runs multiple users on a channel that is subdivided into 2 MHz, 4 MHz, and 10 MHz sub-channels. The goal is to calculate throughput, average latency, and maximum latency for each case.
 
