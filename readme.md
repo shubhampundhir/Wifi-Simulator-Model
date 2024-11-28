@@ -12,7 +12,7 @@ The project is designed using object-oriented principles such as inheritance, po
 
 ## Project Requirements
 
-### WiFi 4 Simulation
+### WiFi-4 Simulation
 - Simulates a simple communication scenario where:
   - **1 user and 1 AP**
   - **10 users and 1 AP**
@@ -20,12 +20,12 @@ The project is designed using object-oriented principles such as inheritance, po
   
   The transmission happens using a single 20 MHz bandwidth. The modulation used is **256-QAM**, and the coding rate is **5/6**. Each packet has a size of **1 KB**. The transmission is based on CSMA/CA where the channel is sniffed and if it’s free, data is transmitted. If the channel is occupied, a backoff time is applied.
 
-### WiFi 5 Simulation
+### WiFi-5 Simulation
 - Simulates communication using **multi-user MIMO**.
 - Parallel communication happens after an initial broadcast packet, where each user sends channel state information.
 - The process is repeated for **15 ms**.
 
-### WiFi 6 Simulation
+### WiFi-6 Simulation
 - Simulates communication using **OFDMA**.
 - A **20 MHz** channel is subdivided into 2 MHz, 4 MHz, or 10 MHz sub-channels, which can be used in parallel for 5 ms.
 - After 5 ms, the channel allocation is refreshed.
