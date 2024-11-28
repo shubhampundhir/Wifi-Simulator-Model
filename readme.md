@@ -99,3 +99,19 @@ g++ -o wifi_simulation wifi5_simulation.cpp -std=c++11 -pthread
 - `wifi_simulation.cpp`: Main C++ file containing the simulation logic and class definitions.
 - `README.md`: This file, describing the project, usage, and code structure.
 - `LICENSE`: License file for the project.
+
+## Output
+- Results for 1 user(s):
+- Throughput: 167.184 Mbps
+- Average Latency: 16.5 ms
+- Maximum Latency: 20 ms
+
+- Results for 10 user(s):
+- Throughput: 249.756 Mbps
+- Average Latency: 15.1 ms
+- Maximum Latency: 21 ms
+
+- Results for 100 user(s):
+- Throughput: 259.816 Mbps
+- Average Latency: 15.115 ms
+- Maximum Latency: 29 ms
