@@ -69,7 +69,7 @@ This project simulates the communication process using WiFi 6 with OFDMA (Orthog
 
 - **`wifi_simulation.cpp`**: Main C++ file containing the simulation logic and class definitions.
 - **`README.md`**: This file, describing the project, usage, and code structure.
-- **`LICENSE`**: License file for the project.
+
 
 ## Compilation and Execution
 
