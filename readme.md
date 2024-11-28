@@ -1,4 +1,4 @@
-# WiFi Communication Simulation
+# WiFi Communication Simulation and Model
 
 ## Project Overview
 
