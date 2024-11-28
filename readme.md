@@ -31,10 +31,10 @@ To compile and run this project, you will need:
    cd WiFi5-Simulation
 
 ## Run the code
-g++ -o wifi_simulation wifi_simulation.cpp -std=c++11 -pthread
+g++ -o wifi_simulation wifi5_simulation.cpp -std=c++11 -pthread
 
 ## Simulate 
-./wifi_simulation
+./wifi5_simulation
 
 ## Code Structure
 
