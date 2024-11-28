@@ -70,16 +70,16 @@ For each configuration, the results (throughput, average latency, and maximum la
 
 ### Output Format
 Results for 1 user(s):  
-Throughput: 910.222 Mbps
-Average Latency: 9 ms   
-Maximum Latency: 9 ms   
+- Throughput: 910.222 Mbps
+- Average Latency: 9 ms   
+- Maximum Latency: 9 ms   
 
 Results for 10 user(s): 
-Throughput: 531.948 Mbps
-Average Latency: 15 ms  
-Maximum Latency: 17 ms  
+- Throughput: 531.948 Mbps
+- Average Latency: 15 ms  
+- Maximum Latency: 17 ms  
 
 Results for 100 user(s): 
-Throughput: 525.465 Mbps 
-Average Latency: 15.09 ms
-Maximum Latency: 23 ms 
+- Throughput: 525.465 Mbps 
+- Average Latency: 15.09 ms
+- Maximum Latency: 23 ms 
