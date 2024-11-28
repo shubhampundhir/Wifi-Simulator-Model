@@ -1,4 +1,4 @@
-# WiFi Simulator: OOPS Assignment
+# WiFi4 Communication Simulator and Modelling
 
 ## Project Overview
 
