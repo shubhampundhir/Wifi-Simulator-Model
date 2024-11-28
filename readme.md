@@ -80,3 +80,19 @@ To compile and run the simulation, follow these steps:
 - Compile the code using a C++ compiler like g++:
   ```bash
   g++ wifi_simulation.cpp -o wifi_simulation
+
+### 2. **Output**
+Simulating with 2 MHz sub-channels: 
+Throughput: 13.2317 Mbps
+Average Latency: 3969.5 ms
+Maximum Latency: 5 ms
+
+Simulating with 4 MHz sub-channels: 
+Throughput: 26.5333 Mbps
+Average Latency: 3980 ms
+Maximum Latency: 5 ms
+
+Simulating with 10 MHz sub-channels:
+Throughput: 66.0083 Mbps
+Average Latency: 3960.5 ms
+Maximum Latency: 5 ms
