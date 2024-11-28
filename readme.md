@@ -68,4 +68,4 @@ The simulation runs for three different user configurations:
 
 For each configuration, the results (throughput, average latency, and maximum latency) are printed.
 
-### Example Output
+### Output Format
