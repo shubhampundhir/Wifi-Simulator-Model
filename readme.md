@@ -1,4 +1,4 @@
-# WiFi 5 Simulation with Multi-User MIMO
+# WiFi-5 Simulation with Multi-User MIMO
 
 This project simulates the communication process of WiFi 5, utilizing the Multi-User MIMO (MU-MIMO) technique. It includes:
 - Simulation of a round-robin scheduling process for users.
