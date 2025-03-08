@@ -1,4 +1,4 @@
-# WiFi Communication Simulation and Modelling
+# Project CSE-600A-OOPD/WiFi Communication Simulation and Modelling
 
 ## Project Overview
 
